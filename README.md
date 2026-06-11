@@ -12,7 +12,12 @@ As a ML Researcher, who is always wanderding around the webs for searching updat
 
 ## 🖼️ Screenshots
 
-- Zap A: RSS → Digest (Collect papers)  
+- Zap A: RSS → Digest (Collect papers)
+
+<img width="505" height="466" alt="Screenshot 2026-06-03 114240" src="https://github.com/user-attachments/assets/58081aca-c4df-45e6-8cc0-e05240cbc05d" />
+
+
+
 - Zap B: Digest Released → Email (Send weekly digest)
 
 ## 🧰 Tech Stack
