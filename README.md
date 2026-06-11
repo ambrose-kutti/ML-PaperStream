@@ -11,7 +11,7 @@ As a ML Researcher, who is always wanderding around the webs for searching updat
 - **No coding required**, fully built with Zapier’s visual workflow editor.
 
 ## 🖼️ Screenshots
-*(Add your Zap A and Zap B screenshots here)*  
+
 - Zap A: RSS → Digest (Collect papers)  
 - Zap B: Digest Released → Email (Send weekly digest)
 
