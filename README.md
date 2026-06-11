@@ -20,6 +20,10 @@ As a ML Researcher, who is always wanderding around the webs for searching updat
 
 - Zap B: Digest Released → Email (Send weekly digest)
 
+  <img width="444" height="552" alt="Screenshot 2026-06-03 114306" src="https://github.com/user-attachments/assets/28bece8d-0245-45d2-9eb1-433021fa2b28" />
+
+
+
 ## 🧰 Tech Stack
 | Tool | Purpose |
 |------|----------|
