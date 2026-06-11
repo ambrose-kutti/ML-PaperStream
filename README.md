@@ -58,7 +58,7 @@ Follow these steps to set up your own version:
    - Action: Email by Zapier → Send Outbound Email  
    - Use the same digest name: `Weekly ML Papers`
 
-3. **Schedule release** for Saturday 10 AM IST.  
+3. **Schedule release** for Saturday 10 AM IST. (This can be change to your willing Date, Day and Time )
 4. **Test manually** by releasing the digest from *Apps → Digest by Zapier → Manage digests → Release now*.  
 5. **Publish both Zaps** and enjoy your automated weekly ML paper digest!
 
