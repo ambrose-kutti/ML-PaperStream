@@ -38,7 +38,7 @@ The workflow consists of two Zaps working together:
 1. **Zap A (Collect)** — Triggers whenever new papers appear in the RSS feed and appends them to the digest named `Weekly ML Papers`.  
 2. **Zap B (Release)** — Fires when the digest is released (weekly) and sends the compiled list via email.  
 
-Workflow Diagram:
+**Workflow Diagram:**
 
 <img width="1536" height="1024" alt="Copilot_20260611_120559" src="https://github.com/user-attachments/assets/bf2f3f27-fcf1-4990-9363-8dd1512c6cb0" />
 
